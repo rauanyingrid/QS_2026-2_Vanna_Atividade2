@@ -30,7 +30,7 @@ A URL pública e dados do vídeo de demonstração estão indicados abaixo e no 
 
 | # | Integrante | Matrícula | Função / Foco na Atividade |
 | :-: | :--- | :-: | :--- |
-| **01** | Rauany Ingrid Santos de Jesus | `202300061760` | |
+| **01** | Rauany Ingrid Santos de Jesus | `202300061760` |Análise dos resultados de fontes e saída estruturada|
 | **02** | André Felipe de Santana Conceição | `202300061527` | |
 | **03** | João Andryel Santos Menezes | `202300061652` | |
 | **04** | José Henrique Souza Santana | `202300061699` | Contexto e prompts |
